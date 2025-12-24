@@ -31,14 +31,9 @@ Projede üç farklı model eğitilmiş ve performansları karşılaştırılmı�
 ## 🚀 Kurulum ve Kullanım
 
 1.  Repoyu klonlayın:
-    ```bash
-    git clone [https://github.com/KULLANICI_ADINIZ/proje-isminiz.git](https://github.com/KULLANICI_ADINIZ/proje-isminiz.git)
-    ```
 2.  Gerekli kütüphaneleri yükleyin:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  Uygulamayı çalıştırın:
+3.  Gerekli dosya yollarını kendi yolunuza göre ayarlayın
+4.  Uygulamayı çalıştırın:
     ```bash
     streamlit run app.py
     ```
