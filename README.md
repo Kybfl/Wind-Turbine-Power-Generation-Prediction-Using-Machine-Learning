@@ -21,7 +21,7 @@ Projede üç farklı model eğitilmiş ve performansları karşılaştırılmı�
 | **LightGBM** | **0.9680** | **97.39 kW** | **234.21 kW** | 🏆 **Seçilen Model** |
 
 ## 💻 Teknoloji Yığını (Tech Stack)
-* **Dil:** Python 3.x
+* **Dil:** Python 3.13
 * **Veri Analizi:** Pandas, NumPy
 * **Görselleştirme:** Matplotlib, Seaborn
 * **Makine Öğrenmesi:** Scikit-learn, XGBoost, LightGBM
@@ -35,9 +35,9 @@ Projede üç farklı model eğitilmiş ve performansları karşılaştırılmı�
 3.  Gerekli dosya yollarını kendi yolunuza göre ayarlayın
 4.  Uygulamayı çalıştırın:
     ```bash
-    streamlit run app.py
+    streamlit run [app.py dosyasının yolu]
     ```
 
 ## 👥 Takım Üyeleri
-* **Kaan Pulat** - Veri Analizi, Modelleme ve Arayüz
-* **Eren Akca** - Veri Temizleme, Dokümantasyon ve Kontrol
+* **Kaan Pulat** - Veri Analizi, Modelleme, Arayüz,  Dokümantasyon ve Kontrol
+* **Eren Akca** - Veri Temizleme, Modelleme, Arayüz, Dokümantasyon ve Kontrol
