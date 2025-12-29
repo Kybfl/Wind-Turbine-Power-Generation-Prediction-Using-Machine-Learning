@@ -11,7 +11,7 @@ Kullanılan veri seti 50.530 satır SCADA verisinden oluşmaktadır.
 * **Veri Temizliği:** Rüzgar hızının yüksek olduğu (>3 m/s) ancak üretimin olmadığı (<= 20 kW) anomali durumları (arıza/bakım) tespit edilerek veri setinden çıkarılmıştır.
 * **Feature Engineering:** Zaman damgası; Ay, Gün ve Saat olarak ayrıştırılarak modelin mevsimsel döngüleri öğrenmesi sağlanmıştır.
 
-## 🧠 Kullanılan Modeller ve Sonuçlar
+## 🧠 Kullanılan Modeller ve Sonuçlar 
 Projede üç farklı model eğitilmiş ve performansları karşılaştırılmıştır. **LightGBM**, hem hız hem de doğruluk açısından en iyi performansı gösteren model olarak seçilmiştir.
 
 | Model | R² Skoru | MAE (Ortalama Hata) | RMSE (Karesel Hata) | Durum |
